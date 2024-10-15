@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.movie-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.loader {
+  width: 50px;
+  height: 50px;
+  background-color: #93f;
+  border-radius: 99rem;
+}
